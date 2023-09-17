@@ -119,6 +119,11 @@
   padding: 10px;
 }
 
+@media screen and (max-width:576) {
+  .card-container{
+    flex-direction: column;
+  }
+}
 
 
 
